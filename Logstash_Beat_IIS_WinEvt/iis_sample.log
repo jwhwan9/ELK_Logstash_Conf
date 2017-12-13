@@ -1,0 +1,6 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-01-01 23:00:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) sc-status sc-substatus sc-win32-status time-taken
+2017-01-01 16:00:00 192.168.1.168 GET /HELLO.JPG - 80 - 59.127.71.30 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 200 0 0 171
+2017-01-02 15:50:37 192.168.1.169 POST /HelloWorld.aspx HelloNo=123 80 - 219.84.58.146 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:52.0)+Gecko/20100101+Firefox/52.0 200 0 0 156
