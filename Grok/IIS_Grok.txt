@@ -1,0 +1,1 @@
+%{TIMESTAMP_ISO8601:timestamp} %{IPV4:dst_ip} %{WORD:http_method} %{URIPATH:page} %{NOTSPACE:querystring} %{BASE10NUM:dst_port} %{NOTSPACE:user_id} %{IPV4:src_ip} %{NOTSPACE:useragent} %{BASE10NUM:http_status} %{BASE10NUM:http_sub_status} %{BASE10NUM:sc_win32_status} %{BASE10NUM:http_time_taken}
